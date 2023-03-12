@@ -23,4 +23,4 @@ exec prc_ExtratorDacPac @localDestino = 'D:\Backup\DACPAC\', @EmailProfile = 'DB
 
 Requisitos:
 
-  - SQL server 2016, ou Azure Managed Instance com database Mail configurado
+  - SQL server 2016 ou posterior com database Mail configurado
